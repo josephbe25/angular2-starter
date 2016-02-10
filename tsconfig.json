@@ -13,5 +13,9 @@
     "node_modules",
     "typings/main.d.ts",
     "typings/main"
+  ],
+  "files": [
+    "typings/redux.d.ts",
+    "node_modules/immutable/dist/immutable.d.ts"
   ]
 }
